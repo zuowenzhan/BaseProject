@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\ylzx\.gradle\caches\modules-2\files-2.1\com.squareup.retrofit2\retrofit\2.1.0\2de7cd8b95b7021b1d597f049bcb422055119f2c\retrofit-2.1.0.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="2de7cd8b95b7021b1d597f049bcb422055119f2c">
+        <dex dex="F:\kaiyuan\BaseProject\app\build\intermediates\pre-dexed\debug\retrofit-2.1.0_766284b78967ba6b3a1c8e1f7971e8ef2f77e927.jar" />
+    </item>
+    <item
+        jar="C:\Users\ylzx\.gradle\caches\modules-2\files-2.1\com.squareup.retrofit2\adapter-rxjava\2.0.2\a60c039ba54c73d1133b72178e1b04133c73d13d\adapter-rxjava-2.0.2.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="a60c039ba54c73d1133b72178e1b04133c73d13d">
+        <dex dex="F:\kaiyuan\BaseProject\app\build\intermediates\pre-dexed\debug\adapter-rxjava-2.0.2_de4dc8d61d3547d60143cef2c47ced39a2a83ffc.jar" />
+    </item>
+    <item
+        jar="F:\kaiyuan\BaseProject\app\build\intermediates\exploded-aar\com.jakewharton\butterknife\8.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="d4ab8678882571a0a6f19c47a826ecbce5b4f42b">
+        <dex dex="F:\kaiyuan\BaseProject\app\build\intermediates\pre-dexed\debug\com.jakewharton-butterknife-8.1.0_bdf2b139d42e7cb5fe74a2b684316a9713334a5d.jar" />
+    </item>
+    <item
+        jar="F:\kaiyuan\BaseProject\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="8413c27b45b7fe61dca4a98159f65e2cee215f5a">
+        <dex dex="F:\kaiyuan\BaseProject\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-23.0.0_f474d53e706dd171cced99d997c0b7c16b894802.jar" />
+    </item>
+    <item
+        jar="C:\Users\ylzx\.gradle\caches\modules-2\files-2.1\com.squareup.okio\okio\1.8.0\5ea7af56cc7c567ed9856d99efb30740e9b17ff\okio-1.8.0.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="05ea7af56cc7c567ed9856d99efb30740e9b17ff">
+        <dex dex="F:\kaiyuan\BaseProject\app\build\intermediates\pre-dexed\debug\okio-1.8.0_e108542c9d218f37f842ecd5927ed57d37e23da0.jar" />
+    </item>
+    <item
+        jar="F:\kaiyuan\BaseProject\app\build\intermediates\exploded-aar\io.reactivex\rxandroid\1.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="d4c4b83de2f6412072d2a29b1b7a5b03edaad5ff">
+        <dex dex="F:\kaiyuan\BaseProject\app\build\intermediates\pre-dexed\debug\io.reactivex-rxandroid-1.1.0_459c96b0fc837b979662f0e04fc90ca07f65b96c.jar" />
+    </item>
+    <item
+        jar="C:\Users\ylzx\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\okhttp\3.3.1\19047bdb6a4fc00a44124f64ca98e88fc204e7e3\okhttp-3.3.1.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="19047bdb6a4fc00a44124f64ca98e88fc204e7e3">
+        <dex dex="F:\kaiyuan\BaseProject\app\build\intermediates\pre-dexed\debug\okhttp-3.3.1_a662b7a6996fc341b55a1397a2db30e3af8af126.jar" />
+    </item>
+    <item
+        jar="F:\kaiyuan\BaseProject\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.0\jars\libs\internal_impl-23.0.0.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="8bd336eeae661e8311330284897ee07f8ebaa297">
+        <dex dex="F:\kaiyuan\BaseProject\app\build\intermediates\pre-dexed\debug\internal_impl-23.0.0_309ad204c840e7b3ae60ecda627f2420d62b81f3.jar" />
+    </item>
+    <item
+        jar="C:\Users\ylzx\.gradle\caches\modules-2\files-2.1\com.squareup.retrofit2\converter-gson\2.0.0-beta3\8bff75d7360aaa3866f1e6949c877dfcc2b3d3e2\converter-gson-2.0.0-beta3.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="8bff75d7360aaa3866f1e6949c877dfcc2b3d3e2">
+        <dex dex="F:\kaiyuan\BaseProject\app\build\intermediates\pre-dexed\debug\converter-gson-2.0.0-beta3_efaf0091adb3c22140229f66f4bd6b53f5cf81e7.jar" />
+    </item>
+    <item
+        jar="F:\kaiyuan\BaseProject\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="4fcf0b1879f8caf497c073e1432d398e9e2988c1">
+        <dex dex="F:\kaiyuan\BaseProject\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-23.0.0_75ca70add49de8b7fa88e9f3606edb41afc1995f.jar" />
+    </item>
+    <item
+        jar="C:\Users\ylzx\.gradle\caches\modules-2\files-2.1\com.google.code.gson\gson\2.6.2\f1bc476cc167b18e66c297df599b2377131a8947\gson-2.6.2.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="f1bc476cc167b18e66c297df599b2377131a8947">
+        <dex dex="F:\kaiyuan\BaseProject\app\build\intermediates\pre-dexed\debug\gson-2.6.2_d912c97a95cfcd4dc030a8d7ea64d4e03bfe546b.jar" />
+    </item>
+    <item
+        jar="C:\Users\ylzx\.gradle\caches\modules-2\files-2.1\com.jakewharton\butterknife-annotations\8.1.0\d6854f42bfb4098d3d2358d93201307b9f1cc95d\butterknife-annotations-8.1.0.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="d6854f42bfb4098d3d2358d93201307b9f1cc95d">
+        <dex dex="F:\kaiyuan\BaseProject\app\build\intermediates\pre-dexed\debug\butterknife-annotations-8.1.0_60f51f83119f878e925aa90f19e40a1b34c65371.jar" />
+    </item>
+    <item
+        jar="D:\sdk\extras\android\m2repository\com\android\support\support-annotations\23.3.0\support-annotations-23.3.0.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="db7791d75a07fef9844d06236c1c59ba7bf6997c">
+        <dex dex="F:\kaiyuan\BaseProject\app\build\intermediates\pre-dexed\debug\support-annotations-23.3.0_b51cd4f0c6893152fb3fe61702601394c8c6a993.jar" />
+    </item>
+    <item
+        jar="F:\kaiyuan\BaseProject\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\23.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="40e7757d9b06db670062ddb3cf5b30c129b2fd8c">
+        <dex dex="F:\kaiyuan\BaseProject\app\build\intermediates\pre-dexed\debug\com.android.support-recyclerview-v7-23.0.0_e19ba7c15788cb8ad316e077b3031c63caa1c19b.jar" />
+    </item>
+    <item
+        jar="C:\Users\ylzx\.gradle\caches\modules-2\files-2.1\io.reactivex\rxjava\1.1.1\b494968f6050d494de55dc3ce005e59c7eb40012\rxjava-1.1.1.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="b494968f6050d494de55dc3ce005e59c7eb40012">
+        <dex dex="F:\kaiyuan\BaseProject\app\build\intermediates\pre-dexed\debug\rxjava-1.1.1_f8990670673d937251a56cc750d504206f0aa225.jar" />
+    </item>
+    <item
+        jar="C:\Users\ylzx\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\logging-interceptor\3.3.1\99ce730034c6f5aaed710d1e0e9df95e8714ed5f\logging-interceptor-3.3.1.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="99ce730034c6f5aaed710d1e0e9df95e8714ed5f">
+        <dex dex="F:\kaiyuan\BaseProject\app\build\intermediates\pre-dexed\debug\logging-interceptor-3.3.1_d07b9aabb02074842e66a956bea482f29dc6af73.jar" />
+    </item>
+
+</items>
